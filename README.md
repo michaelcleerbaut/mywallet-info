@@ -1,6 +1,6 @@
 # Enkel publieke documenten
 
-Deze repository (en de map `mywallet/` in het bijzonder) bevat **uitsluitend publiek bedoelde tekstdocumenten** â€” een privacybeleid en gebruiksvoorwaarden voor een persoonlijk hobbyproject.
+Deze repository bevat **uitsluitend publiek bedoelde tekstdocumenten**, een privacybeleid en gebruiksvoorwaarden voor een persoonlijk hobbyproject.
 
 **Wat hier NIET in zit:**
 
